@@ -1,0 +1,53 @@
+body {
+  margin-top: 30px;
+  background-image: url("http://uucert.com/wp-content/uploads/2018/03/github-universe.jpg");
+  width: 99%;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+}
+
+input{
+  margin-top: 30px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+#btn{
+  
+  margin-right: 400px;
+  margin-left: 400px;
+  background-color: #D088BB;
+  color: white;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+
+h5{
+  color:#D088BB;
+  font-family: 'Merienda', cursive;
+}
+
+label{
+  color:#D088BB;
+  font-family: 'Merienda', cursive;
+}
+
